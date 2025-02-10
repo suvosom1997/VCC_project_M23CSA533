@@ -24,6 +24,6 @@ This project demonstrates how to deploy a microservice architecture across Virtu
 📺 Watch Demo in YouTube([https://www.youtube.com/watch?v=flOZtjLqVSc])
 
 ## **Setup Guide**
-Full documentation is available in `vm-report.pdf`.
+Full documentation is available in `M23CSA533_Assignment_1.pdf`.
 
 
