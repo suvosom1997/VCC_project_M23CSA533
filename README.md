@@ -21,7 +21,7 @@ This project demonstrates how to deploy a microservice architecture across Virtu
 4. Test the connection.
 
 ## **Demo Video**
-📺 [Watch Demo]([YOUR_VIDEO_LINK](https://www.youtube.com/watch?v=flOZtjLqVSc))
+📺 [Watch Demo in YouTube]([https://www.youtube.com/watch?v=flOZtjLqVSc])
 
 ## **Setup Guide**
 Full documentation is available in `vm-report.pdf`.
